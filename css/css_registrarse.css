@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: white;
+    background-image: url(../img/mar.jpg);
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+}
